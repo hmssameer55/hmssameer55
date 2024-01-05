@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmssameer55&label=Profile%20views&color=0e75b6&style=flat" alt="hmssameer55" /> </p>
 
-- 🌱 I’m currently learning **Next-js 13.5, Advanced Js & Ts, React Native
+- 🌱 I’m currently learning **Next-js 14, Advanced Js & Ts, React Native
 
 - 👨‍💻 All of my projects are available at [https://github.com/hmssameer55](https://github.com/hmssameer55)
 
